@@ -1,4 +1,4 @@
-Nesta parte do projeto foi preciso atendermos outros requisitos que seriam a medição de temperatura e umidade do ambiente, para isso seria preciso utilizar um sensor integrado DHT11. As informações precisam aparecer no display para que seja possível a melhor visualização, além disso continuamos com o sinal de alerta e os LED'S que indicam a luminosidade do ambiente.
+Nesta parte do projeto foi preciso atendermos outros requisitos, que seriam a medição de temperatura e umidade do ambiente, para isso seria preciso utilizar um sensor integrado DHT11. As informações precisam aparecer no display para que seja possível a melhor visualização, além disso continuamos com o sinal de alerta e os LED'S que indicam a luminosidade do ambiente.
 
 Explicação do código passo a passo: 
 
@@ -58,8 +58,11 @@ Explicação do código passo a passo:
 
 Esse código tem como intuito monitorar o ambiente (luminosidade, temperatura e umidade) e fornece feedback visual e sonoro sobre as condições encontradas, além de exibir as informações em um LCD. 
 
+<img width="625" alt="Captura de Tela 2024-04-29 às 18 56 40" src="https://github.com/Linasferraz/Projeto_Vinheria/assets/161864076/b13e11da-e4fa-48b8-8ee0-5b87b2de8125">
 
+<img width="712" alt="Captura de Tela 2024-04-29 às 18 56 57" src="https://github.com/Linasferraz/Projeto_Vinheria/assets/161864076/3be266a4-0eb7-4024-a8b5-18359a0249cc">
 
+<img width="709" alt="Captura de Tela 2024-04-29 às 18 57 14" src="https://github.com/Linasferraz/Projeto_Vinheria/assets/161864076/107b5f44-2031-4c93-b5b1-5b965af734ba">
 
 Materiais Utilizados: 
 
